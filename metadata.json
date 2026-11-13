@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Skin & Hair Atelier",
+  "description": "Calm, tactile digital storefront and appointment menu for Aurelia Skin & Hair Atelier in Indiranagar, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

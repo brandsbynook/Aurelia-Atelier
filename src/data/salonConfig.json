@@ -1,0 +1,207 @@
+{
+  "studio": {
+    "name": "Aurelia Skin & Hair Atelier",
+    "shortName": "Aurelia Atelier",
+    "neighborhood": "Indiranagar, Bengaluru",
+    "addressLine1": "12th Main, Indiranagar (Demo Showcase)",
+    "addressLine2": "Indiranagar, Bengaluru 560038",
+    "landmark": "Two doors down from the rain-tree avenue, opposite 100 Feet Cross",
+    "whatsappNumber": "+91 00000 00000",
+    "phone": "+91 00000 00000",
+    "email": "concierge@aurelia-demo.example",
+    "instagram": "@aurelia.indiranagar",
+    "heroEyebrow": "Indiranagar, Bengaluru · Botanical Hair & Dermal Studio",
+    "heroHeadline": "Precision hair, barrier-first skin care, and restorative studio sessions.",
+    "heroDescription": "An architectural studio on 12th Main dedicated to ammonia-free colour, clinical botanical facials, and unhurried one-on-one care.",
+    "heroImage": "/src/assets/images/atelier_architectural_banner_1794549102821.jpg",
+    "heroImageAlt": "Minimalist architectural interior of Aurelia Skin & Hair Atelier in Indiranagar with mineral concrete walls, frameless vertical mirrors, honed stone counters, and steel-framed daylight windows",
+    "apothecaryImage": "/src/assets/images/atelier_botanical_ritual_1794548271337.jpg",
+    "apothecaryImageAlt": "Amber glass botanical hair oils, stoneware bowl, and raw linen towels on honed travertine stone",
+    "facialSuiteImage": "/src/assets/images/atelier_facial_sanctuary_1794548271110.jpg",
+    "facialSuiteImageAlt": "Private facial treatment suite at Aurelia Atelier with draped warm linen bed and soft daylight"
+  },
+  "hours": [
+    { "days": "Tuesday – Friday", "time": "10:00 – 20:00" },
+    { "days": "Saturday – Sunday", "time": "09:30 – 20:30" },
+    { "days": "Monday", "time": "Studio Rest (Closed)" }
+  ],
+  "closedWeekdays": [1],
+  "highlights": [
+    { "label": "Location", "value": "12th Main, Indiranagar" },
+    { "label": "Studio Hours", "value": "Tue – Sun · 10:00 – 20:00" },
+    { "label": "Consultation", "value": "Complimentary 15-min diagnostic" },
+    { "label": "Formulations", "value": "Botanical · Ammonia-free" }
+  ],
+  "categories": [
+    "All",
+    "Hair & Colour",
+    "Skin & Facial",
+    "Nail & Grooming"
+  ],
+  "timeWindows": [
+    {
+      "id": "morning",
+      "label": "Morning",
+      "range": "10:00 – 13:00",
+      "note": "Calm morning light"
+    },
+    {
+      "id": "afternoon",
+      "label": "Afternoon",
+      "range": "13:00 – 16:30",
+      "note": "Midday quiet hours"
+    },
+    {
+      "id": "evening",
+      "label": "Evening",
+      "range": "16:30 – 20:00",
+      "note": "After-work wind-down"
+    }
+  ],
+  "stylists": [
+    {
+      "id": "any",
+      "name": "Any Available Artist",
+      "role": "Matched to your selected treatments",
+      "specialty": "Priority scheduling across our senior team"
+    },
+    {
+      "id": "meera",
+      "name": "Meera Nair",
+      "role": "Creative Director · Hair",
+      "specialty": "Architectural dry cutting, texture framing, and bespoke silhouettes"
+    },
+    {
+      "id": "rohan",
+      "name": "Rohan Hegde",
+      "role": "Master Colourist",
+      "specialty": "Ammonia-free glosses, lived-in dimensional balayage, and scalp care"
+    },
+    {
+      "id": "kavya",
+      "name": "Kavya Rao",
+      "role": "Lead Dermal Therapist",
+      "specialty": "Lymphatic sculpting, barrier restoration, and botanical peels"
+    },
+    {
+      "id": "ananya",
+      "name": "Ananya Menon",
+      "role": "Nail & Grooming Specialist",
+      "specialty": "Breathable Japanese gel, cuticle minimalism, and restorative foot care"
+    }
+  ],
+  "services": [
+    {
+      "id": "hair-bespoke-cut",
+      "category": "Hair & Colour",
+      "name": "Signature Atelier Cut & Finish",
+      "note": "Tailored consultation, warm rosemary scalp cleanse, precision wet-and-dry cut, and soft natural blowout.",
+      "durationMins": 60,
+      "priceInr": 2400
+    },
+    {
+      "id": "hair-dimensional-balayage",
+      "category": "Hair & Colour",
+      "name": "Lived-In Dimensional Balayage",
+      "note": "Hand-painted sun-softened ribbons using clay lightener, bond-building complex, and customised gloss.",
+      "durationMins": 150,
+      "priceInr": 7800
+    },
+    {
+      "id": "hair-botanical-gloss",
+      "category": "Hair & Colour",
+      "name": "Ammonia-Free Botanical Gloss",
+      "note": "Translucent Demi-permanent colour glaze enriched with cold-pressed camellia oil for mirror shine and tone balance.",
+      "durationMins": 75,
+      "priceInr": 3600
+    },
+    {
+      "id": "hair-scalp-detox",
+      "category": "Hair & Colour",
+      "name": "Cedar & Hinoki Scalp Ritual",
+      "note": "Micro-mist steam exfoliation, acupressure meridian massage, and mineral clay mask to rebalance scalp flora.",
+      "durationMins": 50,
+      "priceInr": 2800
+    },
+    {
+      "id": "hair-silk-repair",
+      "category": "Hair & Colour",
+      "name": "Amino Lipid Strand Infusion",
+      "note": "Warm towel lipid-and-peptide reconstruction tailored for Bengaluru hard-water dryness and frizz control.",
+      "durationMins": 45,
+      "priceInr": 2200
+    },
+    {
+      "id": "skin-sculpt-facial",
+      "category": "Skin & Facial",
+      "name": "Sculptural Buccal & Lymphatic Facial",
+      "note": "Slow-tempo myofascial release, intra-oral tension relief, and chilled rose-quartz drainage to lift and depuff.",
+      "durationMins": 75,
+      "priceInr": 4500
+    },
+    {
+      "id": "skin-barrier-calm",
+      "category": "Skin & Facial",
+      "name": "Ceramide Barrier Recovery Ritual",
+      "note": "Gentle enzymatic polish, oat-milk cryo compress, and triple-ceramide infusion for sensitised or reactive skin.",
+      "durationMins": 60,
+      "priceInr": 3400
+    },
+    {
+      "id": "skin-cellular-glow",
+      "category": "Skin & Facial",
+      "name": "Botanical Lactic & LED Illumination",
+      "note": "Mild fermented fruit acid resurfacing paired with medical-grade amber LED therapy for even luminosity.",
+      "durationMins": 60,
+      "priceInr": 4100
+    },
+    {
+      "id": "skin-gua-sha",
+      "category": "Skin & Facial",
+      "name": "Nephrite Gua Sha & Oxygen Dew",
+      "note": "Rhythmic jade contour massage over squalane nectar followed by hyperbaric botanical mist infusion.",
+      "durationMins": 50,
+      "priceInr": 3200
+    },
+    {
+      "id": "skin-express-reset",
+      "category": "Skin & Facial",
+      "name": "Midday Pore & Hydration Reset",
+      "note": "Ultrasonic congestion clearing, hyaluronic sheet compress, and calming blue-tansy finish with zero downtime.",
+      "durationMins": 35,
+      "priceInr": 1950
+    },
+    {
+      "id": "nail-japanese-manicure",
+      "category": "Nail & Grooming",
+      "name": "Structured Japanese Gel Manicure",
+      "note": "Dry e-file cuticle refinement, flexible HEMA-free builder base, and sheer neutral or milky stone tint.",
+      "durationMins": 60,
+      "priceInr": 2100
+    },
+    {
+      "id": "nail-linen-pedicure",
+      "category": "Nail & Grooming",
+      "name": "Warm Basalt & Vetiver Pedicure",
+      "note": "Copper-bowl vetiver soak, gentle pumice smoothing, heated basalt calf massage, and breathable polish.",
+      "durationMins": 60,
+      "priceInr": 2500
+    },
+    {
+      "id": "nail-buff-care",
+      "category": "Nail & Grooming",
+      "name": "Bare Nail Beeswax Buff & Oil",
+      "note": "Precision shaping, micro-cuticle tidy, natural beeswax high-lustre buff, and warm almond hand wrap.",
+      "durationMins": 35,
+      "priceInr": 1200
+    },
+    {
+      "id": "nail-brow-architecture",
+      "category": "Nail & Grooming",
+      "name": "Bespoke Brow Architecture & Tint",
+      "note": "Bone-structure mapping, gentle cotton threading, vegetable-dye brow tint, and soothing aloe-chamomile balm.",
+      "durationMins": 30,
+      "priceInr": 1100
+    }
+  ]
+}
