@@ -1,24 +1,24 @@
 {
   "studio": {
-    "name": "Aurelia Skin & Hair Atelier",
-    "shortName": "Aurelia Atelier",
+    "name": "Serein Dermal & Hair Studio",
+    "shortName": "Serein Dermal & Hair Studio",
     "neighborhood": "Indiranagar, Bengaluru",
     "addressLine1": "12th Main, Indiranagar (Demo Showcase)",
     "addressLine2": "Indiranagar, Bengaluru 560038",
     "landmark": "Two doors down from the rain-tree avenue, opposite 100 Feet Cross",
     "whatsappNumber": "+91 00000 00000",
     "phone": "+91 00000 00000",
-    "email": "concierge@aurelia-demo.example",
-    "instagram": "@aurelia.indiranagar",
+    "email": "concierge@serein-demo.example",
+    "instagram": "@serein.indiranagar",
     "heroEyebrow": "Indiranagar, Bengaluru · Botanical Hair & Dermal Studio",
     "heroHeadline": "Precision hair, barrier-first skin care, and restorative studio sessions.",
     "heroDescription": "An architectural studio on 12th Main dedicated to ammonia-free colour, clinical botanical facials, and unhurried one-on-one care.",
-    "heroImage": "/src/assets/images/atelier_architectural_banner_1794549102821.jpg",
-    "heroImageAlt": "Minimalist architectural interior of Aurelia Skin & Hair Atelier in Indiranagar with mineral concrete walls, frameless vertical mirrors, honed stone counters, and steel-framed daylight windows",
-    "apothecaryImage": "/src/assets/images/atelier_botanical_ritual_1794548271337.jpg",
+    "heroImage": "https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1400&q=80",
+    "heroImageAlt": "Minimalist architectural interior of Serein Dermal & Hair Studio in Indiranagar with mineral concrete walls, frameless vertical mirrors, honed stone counters, and steel-framed daylight windows",
+    "apothecaryImage": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80",
     "apothecaryImageAlt": "Amber glass botanical hair oils, stoneware bowl, and raw linen towels on honed travertine stone",
-    "facialSuiteImage": "/src/assets/images/atelier_facial_sanctuary_1794548271110.jpg",
-    "facialSuiteImageAlt": "Private facial treatment suite at Aurelia Atelier with draped warm linen bed and soft daylight"
+    "facialSuiteImage": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+    "facialSuiteImageAlt": "Private facial treatment suite at Serein Dermal & Hair Studio with draped warm linen bed and soft daylight"
   },
   "hours": [
     { "days": "Tuesday – Friday", "time": "10:00 – 20:00" },

@@ -12,7 +12,7 @@ export function ResilientImage({
   src,
   alt,
   className = '',
-  fallbackTitle = 'Aurelia Skin & Hair Atelier',
+  fallbackTitle = 'Serein Dermal & Hair Studio',
 }: ResilientImageProps) {
   const [hasError, setHasError] = useState(false);
 

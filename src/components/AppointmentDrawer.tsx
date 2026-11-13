@@ -96,7 +96,7 @@ export function AppointmentDrawer({
         <div className="px-5 sm:px-6 py-4 border-b border-[#DCE2E5] flex items-center justify-between gap-4 bg-[#FFFFFF]">
           <div>
             <p className="text-xs font-semibold text-[#2A5C63]">
-              Aurelia Atelier · Indiranagar
+              Serein Dermal & Hair Studio · Indiranagar
             </p>
             <h2
               id="appointment-drawer-title"
